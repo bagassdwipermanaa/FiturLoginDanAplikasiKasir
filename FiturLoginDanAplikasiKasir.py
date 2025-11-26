@@ -4,7 +4,7 @@ from tkinter import messagebox
 # ==========================================
 # 1. CONFIG USERNAME & PASSWORD
 # ==========================================
-USERNAME_BENAR = "admin"  
+USERNAME_BENAR = "1"  
 PASSWORD_BENAR = "123"    
 
 # ==========================================
